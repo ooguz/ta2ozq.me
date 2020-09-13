@@ -2,7 +2,8 @@
 title: Merhaba dünya!
 date: 2020-08-29 09:00:00
 tags:
-    - amatör radyo
+    - TA2OZQ
+    - kişisel
 categories:
 - Genel
 keywords:

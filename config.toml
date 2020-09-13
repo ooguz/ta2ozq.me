@@ -24,8 +24,8 @@ url = "/tags"
 weight = 3
 
 [[menu.main]]
-name = "hakkında"
-url = "/about"
+name = "hakkımda"
+url = "/hakkimda"
 weight = 4
 
 [markup]

@@ -1,14 +1,9 @@
 {
   "list": [
     {
-      "name":"Hugo",
-      "url":"https://gohugo.io/",
-      "desc":"The world’s fastest framework for building websites."
-    },
-    {
-      "name":"Hugo Themes",
-      "url":"https://github.com/gohugoio/hugoThemes",
-      "desc":"A curated directory of Hugo themes"
+      "name":"TinyWX",
+      "url":"#",
+      "desc":"Henüz emekleme aşamasında, çok düşük maliyetli APRS WX (hava durumu) istasyonu"
     }
   ]
 }
